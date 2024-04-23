@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "692224D5-B0F8-4237-BA4A-2B276E646C80"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9837FFA4-7960-4734-9DB7-DD9C8C1E9A80"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BumbleApp/Bumble/Components/BumbleChatPreviewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9837FFA4-7960-4734-9DB7-DD9C8C1E9A80 - c254252a357c1a3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BumbleApp.BumbleChatPreviewCell.body.getter : some"
+                  moduleName = "BumbleApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hemantsinghrajput/Desktop/gitnirmal/Untitled/SwiftUIDemoApp/BumbleApp/BumbleApp/Bumble/Components/BumbleChatPreviewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  uuid = "9837FFA4-7960-4734-9DB7-DD9C8C1E9A80 - a4bba38dbd9ba9ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(BumbleApp.BumbleProfileImageCell, &lt;&lt;opaque return type of SwiftUI.View.lineLimit(Swift.Optional&lt;Swift.Int&gt;) -&gt; some&gt;&gt;.0)&gt; in BumbleApp.BumbleChatPreviewCell.body.getter : some"
+                  moduleName = "BumbleApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hemantsinghrajput/Desktop/gitnirmal/Untitled/SwiftUIDemoApp/BumbleApp/BumbleApp/Bumble/Components/BumbleChatPreviewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "708">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
